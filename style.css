@@ -153,6 +153,9 @@ margin-bottom: 10px;
 .Services{
     background: #111;
 }
+.section1{
+    background: #111;
+}
 .heading.white{
     color: #fff;
 }
@@ -196,3 +199,7 @@ margin-bottom: 10px;
 .work .heading.white{
     color: black;
 }
+.section1 .leading-relaxed{
+    color: azure;
+}
+
